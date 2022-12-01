@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: shplotmissing
+Version: 0.3
+Summary: SHAWPACK NLP processing package
+Home-page: https://github.com/AbdelrahmanShahrour/shplotmissing
+Author: AbdelrahmanShahrour
+License: UNKNOWN
+Keywords: Stucterd Data,AI,DS,Shahrour,Pandas,Missing Value
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+contourpy==1.0.6
+cycler==0.11.0
+fonttools==4.38.0
+kiwisolver==1.4.4
+matplotlib==3.6.2
+missingno==0.5.1
+numpy==1.23.5
+packaging==21.3
+pandas==1.5.2
+Pillow==9.3.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2022.6
+scipy==1.9.3
+seaborn==0.12.1
+six==1.16.0
+
+
